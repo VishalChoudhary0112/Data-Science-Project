@@ -1,1 +1,12 @@
+EDA and Statistical Analysis of Women Clothing feedback
+Goals :
+1.Using the core statistical theoretical concepts and knowledge to solve real time problem statements.
+2.Visualize a real time industry scenario where one can use these statistical concepts.
+3.Detailed data analysis and number crunching using statistics
+4.Exhaustive report building using EDA and visualization techniques to help the business take decisions using insights from the data
 
+
+This dataset contains self-reported clothing-fit feedback from customers as well as other side information like reviews, ratings, product categories, catalog sizes, customers’ measurements (etc.) from 2 websites:
+
+-Mod Cloth : Mod Cloth sells women’s vintage clothing and accessories, from which the curator of the dataset collected data from three categories: dresses, tops, and bottoms.
+-Rent the runway : Rent The Run Way is a unique platform that allows women to rent clothes for various occasions; they collected data from several categories.
