@@ -8,9 +8,10 @@ This project focuses on predicting customer churn in the telecom sector, where c
 
 This repository includes key resources that summarize the analysis, methodology, and outcomes of the project:
 
-- **Presentation Report**: [Telecom Churn Analysis - Business Report](link-to-pdf-in-repo)
-- **Dataset Source**: [Telecom Churn Dataset - Kaggle](https://www.kaggle.com/datasets)
-- **Python Notebooks** *(coming soon)*: Scripts for EDA, preprocessing, and model building.
+- **Uploaded Files:**: [Raw datasets used for analysis]((https://github.com/VishalChoudhary0112/Telecom-Churn-Prediction/blob/main/Telecom%20Churn/cell2cell.csv))
+- **Business Presentation Report:**: [Detailed report outlining the business understanding, model findings, and strategic recommendations]((https://github.com/VishalChoudhary0112/Telecom-Churn-Prediction/blob/main/Telecom%20Churn/Presentation_report.pdf))
+- **Detailed Project Report:**: [Extensive report covering all aspects of the project including methodology, code, and insights]([link-to-pdf-in-repo](https://github.com/VishalChoudhary0112/Telecom-Churn-Prediction/blob/main/Telecom%20Churn/Telecom_churn_report.pdf))
+
 
 ## Table of Contents
 
@@ -92,15 +93,3 @@ A variety of models were built and evaluated:
 - Stacking classifier improved recall from 4% (logistic baseline) to 31%.
 - Proper preprocessing and transformation were critical for success.
 
-## Contributors
-
-- Bharath N Raju  
-- Niranjan  
-- Vishal Choudhary  
-- Nikhil Kodapalli  
-- Reshma R A  
-- *Guided by: Mr. Jatinder Bedi*
-
-## License
-
-This project is part of an academic capstone and is shared for learning purposes. For reuse or reproduction, proper credit must be given.
