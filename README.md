@@ -64,32 +64,21 @@ Churn prediction is a crucial challenge for telecom companies, given the high co
 
 A variety of models were built and evaluated:
 
-| Model                | Accuracy | Recall (Churners) | AUC Score |
-|---------------------|----------|-------------------|-----------|
-| Logistic Regression | 56%      | Low (4%)          | 0.59      |
-| Decision Tree       | 62%      | Moderate          | -         |
-| Random Forest       | 71%      | Moderate          | -         |
-| KNN                 | 71%      | Low (5%)          | -         |
-| Naive Bayes         | ~67%     | Higher recall     | -         |
-| AdaBoost            | -        | -                 | -         |
-| Gradient Boost      | -        | -                 | -         |
-| **XGBoost**         | **Best accuracy & recall** | **High** | **0.59** |
-| **Stacking**        | **70%**  | **Best Recall (31%)** | **0.59** |
+| Model | Accuracy | 
+|-------|----------|
+| XGBoost | 70% |
+| Naive Bayes | 0.68% |
+| **Stack Model** | **71%** | 
 
 ## Best Model Summary
 
-- **Stacking Classifier** outperformed others with the highest recall for churners (31%) and balanced accuracy.
-- **XGBoost** was the most effective individual model.
+- **Stacking Classifier** outperformed others with the highest accuracy of 71%
+- The model's performance insights are crucial for implementing effective customer retention strategies.
 
 ## Limitations
-
 - Class imbalance was a major challenge despite using SMOTE.
 - Statistical assumptions were not met (non-normal data).
 - Lack of domain expertise limits some insights and feature engineering steps.
 
-## Conclusion
 
-- Statistical analysis and ML modeling helped reduce false negatives significantly.
-- Stacking classifier improved recall from 4% (logistic baseline) to 31%.
-- Proper preprocessing and transformation were critical for success.
 
