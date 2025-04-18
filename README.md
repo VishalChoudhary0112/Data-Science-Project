@@ -8,9 +8,9 @@ This project focuses on predicting customer churn in the telecom sector, where c
 
 This repository includes key resources that summarize the analysis, methodology, and outcomes of the project:
 
-- **Uploaded Files:**: [Raw datasets used for analysis]((https://github.com/VishalChoudhary0112/Telecom-Churn-Prediction/blob/main/Telecom%20Churn/cell2cell.csv))
-- **Business Presentation Report:**: [Detailed report outlining the business understanding, model findings, and strategic recommendations]((https://github.com/VishalChoudhary0112/Telecom-Churn-Prediction/blob/main/Telecom%20Churn/Presentation_report.pdf))
-- **Detailed Project Report:**: [Extensive report covering all aspects of the project including methodology, code, and insights]([link-to-pdf-in-repo](https://github.com/VishalChoudhary0112/Telecom-Churn-Prediction/blob/main/Telecom%20Churn/Telecom_churn_report.pdf))
+- **Uploaded Files:**: [Raw datasets used for analysis](https://github.com/VishalChoudhary0112/Telecom-Churn-Prediction/blob/main/Telecom%20Churn/cell2cell.csv)
+- **Business Presentation Report:**: [Detailed report outlining the business understanding, model findings, and strategic recommendations](https://github.com/VishalChoudhary0112/Telecom-Churn-Prediction/blob/main/Telecom%20Churn/Presentation_report.pdf)
+- **Detailed Project Report:**: [Extensive report covering all aspects of the project including methodology, code, and insights](https://github.com/VishalChoudhary0112/Telecom-Churn-Prediction/blob/main/Telecom%20Churn/Telecom_churn_report.pdf)
 
 
 ## Table of Contents
